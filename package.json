@@ -1,0 +1,8 @@
+{
+  "name": "MachineLearning",
+  "version": "1.0.0",
+  "description": "Learning Machine Learning Using Python",
+  "main": "index.js",
+  "author": "Hodonou SOUNTON <sounton@gmail.com>",
+  "license": "MIT"
+}
